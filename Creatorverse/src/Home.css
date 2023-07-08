@@ -1,0 +1,8 @@
+.creators-body {
+    display: flex;
+    flex-grow: 1;
+    background-color: beige;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+}
